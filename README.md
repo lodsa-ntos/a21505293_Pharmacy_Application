@@ -1,3 +1,9 @@
+# Pharmacy Application
+![alt_text](pharmacy.png?raw=true "Pharmacy Application")
+
+<p align="justify"> Project developed from a software, with the objective of managing a Pharmacy. It consists of a back-end developed in Spring Boot – Java Micro-Services, with a connection to a PostgreSQL database, allocated in the Heroku cloud, whose transactions are carried out through an ORM (Hibernate & JPA Data), and the layer visual developed in Angular.</p>
+
+
 Spring Boot Application - Full Stater
 ===================================
 - - - - 
